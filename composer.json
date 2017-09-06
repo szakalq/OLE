@@ -27,6 +27,7 @@
         "source": "https://github.com/pear/OLE"
     },
     "type": "library",
+    "minimum-stability": "stable",
     "require": {
         "pear/pear_exception": "^1.0"
     },
