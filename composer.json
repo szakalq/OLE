@@ -26,6 +26,7 @@
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=OLE",
         "source": "https://github.com/pear/OLE"
     },
+    "version": "1.0.0",
     "type": "library",
     "minimum-stability": "stable",
     "require": {
